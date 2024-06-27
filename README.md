@@ -4,7 +4,7 @@ This application is developed using Kotlin and Jetpack Compose. Jetpack Compose 
 
 ## Screenshots
 
-![Eratani Test](https://github.com/rwnhrmwn23/TestEratani/assets/25237512/f88f28b9-399b-4304-80cc-b190b188fb4c)
+![Eratani Test](https://github.com/rwnhrmwn23/TestEratani/assets/25237512/a7aee283-a60d-4169-a068-90b58b382b8d)
 
 ## Introduction
 
